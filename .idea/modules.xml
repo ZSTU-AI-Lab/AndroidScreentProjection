@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidScreenProjection.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidScreenProjection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidScreenProjection.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidScreenProjection.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidScreenProjection.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidScreenProjection.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidScreenProjection.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidScreenProjection.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidScreenProjection.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidScreenProjection.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidScreentProjection.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidScreentProjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidScreentProjection.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidScreentProjection.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidScreentProjection.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidScreentProjection.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidScreentProjection.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidScreentProjection.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidScreentProjection.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidScreentProjection.app.unitTest.iml" />
     </modules>
   </component>
 </project>

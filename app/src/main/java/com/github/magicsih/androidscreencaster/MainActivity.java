@@ -30,6 +30,7 @@ import androidx.core.content.ContextCompat;
 import com.github.magicsih.androidscreencaster.consts.ActivityServiceMessage;
 import com.github.magicsih.androidscreencaster.consts.ExtraIntent;
 import com.github.magicsih.androidscreencaster.service.ScreenCastService;
+//test
 
 public class MainActivity extends AppCompatActivity {
 

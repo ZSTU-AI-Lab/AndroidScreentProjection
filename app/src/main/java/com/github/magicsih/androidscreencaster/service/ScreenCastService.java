@@ -32,9 +32,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.nio.ByteBuffer;
 
-/**
- * Created by sih on 2017-05-31.
- */
+
 public final class ScreenCastService extends Service {
 
     private static final int FPS = 30;

@@ -1,8 +1,6 @@
 package com.github.magicsih.androidscreencaster.consts;
 
-/**
- * Created by sih on 2017-05-31.
- */
+
 
 public enum ExtraIntent {
     RESULT_CODE,

@@ -13,9 +13,7 @@ import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.SocketException;
 
-/**
- * Created by sih on 2017-02-20.
- */
+
 
 public class DatagramSocketClient extends Thread {
 
